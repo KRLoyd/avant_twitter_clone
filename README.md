@@ -23,7 +23,7 @@ All files must be executable to run. To add executable permissions to any file: 
 ##### [twitter_clone.py](twitter_clone.py)
 Python file to set up the Flask application.
 
-##### [templates/twitter_clone.html](templates/twitter_clone.html]
+##### [templates/twitter_clone.html](templates/twitter_clone.html)
 HTML for the Twitter Clone.
 
 ##### [static/styles/twitter_style.css](static/styles/twitter_style.css)
