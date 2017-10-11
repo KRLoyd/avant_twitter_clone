@@ -2,7 +2,7 @@
 
 ## Description
 This is a simple Twitter Clone for my Avant Interview. This includes an HTML, CSS, Javascript, and Python file.
-This project was begun at 2pm and completed at 4pm. As such, there is much I would like to improve in the future, such as more styling and features (profile picture, login, etc).
+This project was begun at 2pm and completed at 4pm on 10/11/17. There is much I would like to improve in the future, such as more styling and features (profile picture, login, etc).
 
 ### Project Notes
 #### Environment
