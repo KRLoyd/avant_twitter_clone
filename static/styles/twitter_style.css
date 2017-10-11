@@ -1,0 +1,20 @@
+header {
+    height: 50px;
+    color: lightblue;
+}
+
+main {
+    height: 500px;
+}
+
+footer {
+    text-align: center;
+}
+
+.showForm {
+    display: block;
+}
+
+.hideForm {
+    display: none;
+}
